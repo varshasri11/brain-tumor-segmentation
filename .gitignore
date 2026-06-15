@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+kaggle.json
+kaggle_3m/
+*.h5
+*.keras
+*.pkl
+*.tif
