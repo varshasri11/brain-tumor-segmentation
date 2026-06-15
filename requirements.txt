@@ -1,7 +1,6 @@
-streamlit==1.32.0
-numpy>=1.26.0
+streamlit
+numpy
 opencv-python-headless
 scikit-image
 matplotlib
 Pillow
-tensorflow-cpu==2.15.0
