@@ -341,3 +341,9 @@ This project is released under the [MIT License](LICENSE).
 - Dataset: [LGG MRI Segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
   by Mateusz Buda et al., hosted on Kaggle.
 - Built with TensorFlow/Keras, OpenCV, and scikit-image.
+
+Author
+Bantu Varsha Sri
+
+Computer Science Student
+Java | Python | Data Analytics | Machine Learning Enthusiast
